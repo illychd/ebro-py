@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the accompanying paper."
+title: "ebro: Endograph-Based Robust Optimization"
+version: 0.2.1
+license: MIT
+authors:
+  - family-names: Alvarez Alvarez
+    given-names: Illych
+    affiliation: "Escuela Superior Politécnica del Litoral (ESPOL), Guayaquil, Ecuador"
+    email: ialvarez@espol.edu.ec
+keywords: [robust optimization, possibility theory, endograph metric, distributionally robust optimization, credal sets]

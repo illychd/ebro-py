@@ -1,0 +1,218 @@
+{
+ "vstar": 7.800435200216451,
+ "zstar": 36.89386363636363,
+ "qstar": 11.292919868326118,
+ "zq": 35.72181818181818,
+ "by_n": {
+  "25": {
+   "SAA": {
+    "z_mean": 36.724835,
+    "regret_mean": 3.0614119839243035,
+    "regret_p90": 5.523594413632165,
+    "credal_regret_mean": 7.931041013479002,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "Nominal possibilistic": {
+    "z_mean": 35.57885,
+    "regret_mean": 12.451600914129708,
+    "regret_p90": 21.866725081840812,
+    "credal_regret_mean": 3.2069518462214774,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "eps-contamination": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "EBRO": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": 1.725986321713951,
+    "coverage": 1.0
+   },
+   "KS-DRO": {
+    "z_mean": 43.81173699999964,
+    "regret_mean": 81.97190893774066,
+    "regret_p90": 85.09792682958319,
+    "credal_regret_mean": 69.19269994439003,
+    "cert_ratio": 1.3239567976055329,
+    "coverage": 1.0
+   }
+  },
+  "50": {
+   "SAA": {
+    "z_mean": 36.66501,
+    "regret_mean": 1.9056706711827038,
+    "regret_p90": 5.26772816972052,
+    "credal_regret_mean": 6.486413785620382,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "Nominal possibilistic": {
+    "z_mean": 35.6295,
+    "regret_mean": 11.078486452940806,
+    "regret_p90": 16.842095733745747,
+    "credal_regret_mean": 1.3852328377110876,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "eps-contamination": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "EBRO": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": 1.6529587192542845,
+    "coverage": 1.0
+   },
+   "KS-DRO": {
+    "z_mean": 43.94370899999949,
+    "regret_mean": 83.66376325884556,
+    "regret_p90": 85.51303187394966,
+    "credal_regret_mean": 70.36132596439745,
+    "cert_ratio": 1.2413928442090636,
+    "coverage": 1.0
+   }
+  },
+  "100": {
+   "SAA": {
+    "z_mean": 36.799414999999996,
+    "regret_mean": 0.720839228367729,
+    "regret_p90": 2.0577494303164627,
+    "credal_regret_mean": 7.161412122792358,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "Nominal possibilistic": {
+    "z_mean": 35.65525,
+    "regret_mean": 10.467875553457134,
+    "regret_p90": 14.88858051849425,
+    "credal_regret_mean": 0.669404095345067,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "eps-contamination": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "EBRO": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": 1.5820633041459597,
+    "coverage": 1.0
+   },
+   "KS-DRO": {
+    "z_mean": 44.04111850000086,
+    "regret_mean": 84.91253332745244,
+    "regret_p90": 85.87660133225292,
+    "credal_regret_mean": 71.22389739089442,
+    "cert_ratio": 1.1674079187541155,
+    "coverage": 1.0
+   }
+  },
+  "200": {
+   "SAA": {
+    "z_mean": 36.844674999999995,
+    "regret_mean": 0.2778950970003228,
+    "regret_p90": 0.6362640797591476,
+    "credal_regret_mean": 7.511001728211105,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "Nominal possibilistic": {
+    "z_mean": 35.68565,
+    "regret_mean": 9.898477187145408,
+    "regret_p90": 12.83354026472892,
+    "credal_regret_mean": 0.2960508077027677,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "eps-contamination": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "EBRO": {
+    "z_mean": 42.30000000000001,
+    "regret_mean": 62.591746662209054,
+    "regret_p90": 62.59174666220904,
+    "credal_regret_mean": 55.80610889773175,
+    "cert_ratio": 1.528879032958406,
+    "coverage": 1.0
+   },
+   "KS-DRO": {
+    "z_mean": 37.71057399999986,
+    "regret_mean": 4.852452490396028,
+    "regret_p90": 7.845048310694546,
+    "credal_regret_mean": 15.166256197879001,
+    "cert_ratio": 1.882549290115061,
+    "coverage": 1.0
+   }
+  },
+  "1000": {
+   "SAA": {
+    "z_mean": 36.88415,
+    "regret_mean": 0.03928454858116495,
+    "regret_p90": 0.083342269210882,
+    "credal_regret_mean": 7.848529063149183,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "Nominal possibilistic": {
+    "z_mean": 35.709799999999994,
+    "regret_mean": 9.464393023891175,
+    "regret_p90": 10.618277977804876,
+    "credal_regret_mean": 0.05677785533227445,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "eps-contamination": {
+    "z_mean": 36.11305,
+    "regret_mean": 4.469508658424531,
+    "regret_p90": 6.128964203426635,
+    "credal_regret_mean": 1.6113802041211374,
+    "cert_ratio": null,
+    "coverage": null
+   },
+   "EBRO": {
+    "z_mean": 36.1365,
+    "regret_mean": 4.228687076471114,
+    "regret_p90": 5.771141779000429,
+    "credal_regret_mean": 1.7655376030114394,
+    "cert_ratio": 2.105071878491984,
+    "coverage": 1.0
+   },
+   "KS-DRO": {
+    "z_mean": 37.143388499999894,
+    "regret_mean": 0.550217490558814,
+    "regret_p90": 0.9352211861009214,
+    "credal_regret_mean": 10.143768598451473,
+    "cert_ratio": 1.4408651935456316,
+    "coverage": 1.0
+   }
+  }
+ }
+}

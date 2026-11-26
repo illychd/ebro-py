@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ebro"
+version = "0.2.1"
+description = "Endograph-based robust optimization under possibilistic ambiguity, with data-driven finite-sample certificates"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Illych Alvarez Alvarez", email = "ialvarez@espol.edu.ec"}]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.22", "scipy>=1.9"]
+keywords = ["robust optimization", "possibility theory", "fuzzy sets", "endograph metric", "distributionally robust optimization", "credal sets"]
+classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License", "Topic :: Scientific/Engineering :: Mathematics"]
+
+[project.optional-dependencies]
+examples = ["matplotlib", "pmdarima"]
+test = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
